@@ -1,0 +1,40 @@
+Etudiant 1: 
+Nom: etudiant 1
+Prenom: etudiant 1
+Adresse: villeurbanne
+Note programmation: 10
+Note systeme: 10
+
+
+Etudiant 2: 
+Nom: etudiant 2
+Prenom: etudiant 2
+Adresse: lyon 3
+Note programmation: 1
+Note systeme: 15
+
+
+Etudiant 3: 
+Nom: etudiant 3
+Prenom: etudiant 3
+Adresse: st etienne
+Note programmation: 17
+Note systeme: 15
+
+
+Etudiant 4: 
+Nom: etudiant 4
+Prenom: etudiant 4
+Adresse: paris
+Note programmation: 15
+Note systeme: 15
+
+
+Etudiant 5: 
+Nom: etudiant 5
+Prenom: etudiant 5
+Adresse: marseille
+Note programmation: 10
+Note systeme: 10
+
+
